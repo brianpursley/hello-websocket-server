@@ -1,0 +1,18 @@
+{
+  "name": "hello-websocket-server",
+  "version": "1.0.0",
+  "description": "A simple hello world websocker server",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "^7.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Brian Pursley",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/brianpursley/hello-websocket-server"
+  }
+}
